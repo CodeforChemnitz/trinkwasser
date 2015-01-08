@@ -9,6 +9,9 @@ Online-Version: http://opendatalab.de/projects/trinkwasser/
 Datenquellen:
 ==================
 
-* Stadtwerke Heilbronn: https://www.stadtwerke-heilbronn.de/index/hsw/Wasserh%C3%A4rte.html
-* Stadtwerke Neckarsulm: http://www.sw-neckarsulm.de/main/produkte/trinkwasser/wasseranalyse.html
-* Webseiten der Gemeinden im Landkreis Heilbronn
+* Stadtwerke Chemnitz / EINS / Zweckerbandes Fernwasser Südsachsen
+  * Übersichtskarte nach Stadtteil - aber nur mit 2 Ziel-Links: http://www.eins.de/privatkunden/trinkwasser/trinkwasseranalyse/
+  * Mischwasser: http://www.eins.de/ueber-eins/netze/trinkwasser/trinkwasser-einsiedel/
+  * Einsiedel: http://www.eins.de/ueber-eins/netze/trinkwasser/trinkwasser-mischwasser/
+  * http://www.eins.de/ueber-eins/netze/trinkwasser/
+  * 
