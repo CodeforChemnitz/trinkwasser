@@ -11,7 +11,7 @@ Datenquellen:
 
 * Stadtwerke Chemnitz / EINS / Zweckerbandes Fernwasser Südsachsen
   * Übersichtskarte nach Stadtteil - aber nur mit 2 Ziel-Links: http://www.eins.de/privatkunden/trinkwasser/trinkwasseranalyse/
-  * Mischwasser: http://www.eins.de/ueber-eins/netze/trinkwasser/trinkwasser-einsiedel/
-  * Einsiedel: http://www.eins.de/ueber-eins/netze/trinkwasser/trinkwasser-mischwasser/
+  * Einsiedel: http://www.eins.de/ueber-eins/netze/trinkwasser/trinkwasser-einsiedel/
+  * Mischwasser: http://www.eins.de/ueber-eins/netze/trinkwasser/trinkwasser-mischwasser/
   * http://www.eins.de/ueber-eins/netze/trinkwasser/
   * 
