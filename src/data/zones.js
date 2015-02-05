@@ -27,13 +27,13 @@ tw.data.zones = {
 		"source": "http://www.eins.de/ueber-eins/netze/trinkwasser/trinkwasser-mischwasser/"
 	}
 };
-/*tw.data.averageValues = {
-	"natrium": 8.2,
-	"kalium": 1.5,
-	"calcium": 71.5,
-	"magnesium": 16.7,
-	"chlorid": 17.1,
-	"nitrat": 14.9,
-	"sulfat": 46,
-	"hardness": 14.9
-};*/
+tw.data.averageValues = {
+	"natrium": 8.5,
+	"kalium": 2.5,
+	"calcium": 29,
+	"magnesium": 4,
+	"chlorid": 17,
+	"nitrat": 8,
+	"sulfat": 32,
+	"hardness": 5
+};

@@ -158,7 +158,7 @@ var tw = {
 			$('.streetZone').html('');
 		} else {
 			var html = '';
-			if (city === 'Heilbronn') {
+			if (city === 'Chemnitz') {
 				var allStreets = {};
 				Object.keys(streets).forEach(function(zone) {
 					streets[zone].forEach(function(street) {
@@ -254,7 +254,7 @@ var tw = {
 		if (window.location.href.indexOf('embed') < 0) {
 			$('h1').show();
 		}
-		// $('.city').val('Erlenbach').trigger('change');
+		$('.city').val('Chemnitz').trigger('change');
 		// $('.switch-to-section[data-section="map"]').trigger('click');
 	};
 })(tw, jQuery);
