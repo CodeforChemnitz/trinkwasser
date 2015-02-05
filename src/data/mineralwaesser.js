@@ -1,24 +1,40 @@
 tw.data.referenceWaters = {
-	"wueteria": {
-		"natrium": 10.7,
-		"kalium": 2.6,
-		"calcium": 118,
-		"magnesium": 48,
-		"chlorid": 43,
-		"nitrat": 0.05,
-		"sulfat": 68,
-		"sources": ["http://www.wueteria.de/unser_wasser/index.php"]
+	// pur
+	"lichtenauer": {
+		"natrium": 13.4,
+		"kalium": 1.8,
+		"calcium": 68.7,
+		"magnesium": 12.3,
+		"chlorid": 23,
+		//"nitrat": 6.9,
+		"sulfat": 89.9,
+		//"carbonat": 153
+		"sources": ["http://www.lichtenauer.com/produkte/natuerliches-mineralwasser/spritzig/", "http://books.google.de/books?id=lzEoGWyqMBwC&pg=PA198&lpg=PA198&dq=volvic+nitratgehalt&source=bl&ots=pJEE0i9HwK&sig=OI_PeSr_QGBCfpeVCu70N4ohy8g&hl=de&ei=4-yvSuHrJ8jK_gbV0p3ZDA&sa=X&oi=book_result&ct=result&resnum=6#v=onepage&q&f=false"]
 	},
-	"teusser": {
-		"natrium": 53,
-		"kalium": 8,
-		"calcium": 565,
-		"magnesium": 82,
-		"chlorid": 27,
-		"nitrat": 0.5,
-		"sulfat": 1450,
-		"sources": ["http://www.teusser.de/index.php?id=225"]
+	// naturelle - ohne CO2
+	"sachsenquelle": {
+		"natrium": 12.1,
+		"kalium": 2.5,
+		"calcium": 72.5,
+		"magnesium": 10.5,
+		"chlorid": 15,
+		"nitrat": 2,
+		"sulfat": 14,
+		//"carbonat": 265
+		"sources": ["http://www.sachsenquelle.de/#!produkte/sachsenquelle-naturelle"]
 	},
+	// Naturelle - ohne CO2
+	"oppacher": {
+		"natrium": 10.1,
+		"kalium": 1.6,
+		"calcium": 29.8,
+		"magnesium": 6.4,
+		//"chlorid": 15,
+		//"nitrat": 2,
+		"sulfat": 71.4,
+		"sources": ["http://www.oppacher.de/produkte/mineralwasser/mineralwasser-naturell/"]
+	},
+
 	"volvic": {
 		"natrium": 11.6,
 		"kalium": 6.2,
