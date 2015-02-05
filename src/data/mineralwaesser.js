@@ -34,7 +34,6 @@ tw.data.referenceWaters = {
 		"sulfat": 71.4,
 		"sources": ["http://www.oppacher.de/produkte/mineralwasser/mineralwasser-naturell/"]
 	},
-
 	"volvic": {
 		"natrium": 11.6,
 		"kalium": 6.2,

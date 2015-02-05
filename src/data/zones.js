@@ -1,6 +1,6 @@
 tw.data.zones = {
 
-	"Einsiedel": {
+	"Chemnitz Einsiedel": {
 		"natrium": "7.5-9.7",
 		"kalium": "1.1-3.8",
 		"calcium": "25.2-33.9",
@@ -13,7 +13,7 @@ tw.data.zones = {
 		"description": "Analyse nach DIN 50930, Wasserwerk Einsiedel",
 		"source": "http://www.eins.de/ueber-eins/netze/trinkwasser/trinkwasser-einsiedel/"
 	},
-	"Mischwasser": {
+	"Chemnitz Großraum": {
 		"natrium": "7.1-10.7",
 		"kalium": "0.4-3.8",
 		"calcium": "22.4-33.9",
