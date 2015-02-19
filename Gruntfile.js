@@ -78,7 +78,7 @@ module.exports = function(grunt) {
 				}]
 			}
 		},
-		jsonmin: {
+		/*jsonmin: {
 			dist: {
 				options: {
 					stripWhitespace: true,
@@ -87,12 +87,12 @@ module.exports = function(grunt) {
 				files: [{
 					expand: true,
 					cwd: 'src/data',
-					src: ['**/*.json'],
+					src: ['**'.'/*.json'],
 					dest: 'dist/data',
 					ext: '.json'
 				}]
 			}
-		},
+		},*/
 		devserver: {
 			options: {
 				port: 8091
@@ -120,7 +120,7 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-devserver');
 	grunt.loadNpmTasks('grunt-gh-pages');
 
-	grunt.registerTask('dataupdate', ['jsonmin:dist']);
+	//grunt.registerTask('dataupdate', ['jsonmin:dist']);
 	grunt.registerTask('build', ['clean:dist', 'useminPrepare', 'imagemin', 'concat', 'cssmin', 'uglify', 'copy:dist', 'rev', 'usemin']);
 	grunt.registerTask('deploy', ['build', 'gh-pages']);
 	grunt.registerTask('default', ['build']);

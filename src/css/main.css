@@ -214,6 +214,9 @@ svg text {
 #hardness-range-indicator .range-indicator-bar {
 	stroke: #333;
 }
+.lightgray, .lightgray h4, .lightgray a {
+    color: lightgray;
+}
 
 @media (max-width: 767px) {
 	h1 {
